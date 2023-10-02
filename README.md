@@ -3,7 +3,7 @@
 
 
 
-<p align="center">Olá! Sou Bruno Felipe,<br> um desenvolvedor front-end apaixonado por tecnologia e desenvolvimento. sempre buscando maneiras uma de melhorar minhas habilidades e aprender novas tecnologias.</p>&nbsp;
+<p align="center">Olá! Sou Bruno Felipe,<br> um desenvolvedor front-end apaixonado por tecnologia e desenvolvimento. sempre buscando maneiras de melhorar minhas habilidades e aprender novas tecnologias.</p>&nbsp;
 
 
  
