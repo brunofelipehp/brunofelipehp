@@ -3,7 +3,7 @@
 
 
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br>frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">Olá! Sou Bruno Felipe,<br> um desenvolvedor front-end apaixonado por tecnologia e desenvolvimento. sempre buscando maneiras uma de melhorar minhas habilidades e aprender novas tecnologias.</p>&nbsp;
 
 
  
@@ -22,7 +22,12 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
+## Studying in this moment:
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=typescript,react,styledcomponents" />
+  </a>
+</p>
 
 
 ## Workstation Tools:
