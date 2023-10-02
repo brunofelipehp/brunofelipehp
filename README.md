@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" src="./header-image.png" >
+<img align="center" style="margin-bottom:100px" src="./git-image.png" >
 
 
 
