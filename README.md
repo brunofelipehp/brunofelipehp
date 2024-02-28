@@ -2,9 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=6A5ACD&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Bruno+Felipe;I'm+from+Brazil;I'm+Graduated+Computer+Science;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-
-
  
  &nbsp;
  &nbsp;
@@ -21,7 +18,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 
 ## Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
@@ -47,8 +44,10 @@
 
 
 
-<div align="center">  
+<div align="center" > 
+  
   <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofelipehp&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117&hide_progress=false" />
+
 </div>
 
 &nbsp;
