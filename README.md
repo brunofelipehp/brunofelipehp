@@ -6,7 +6,12 @@
  &nbsp;
  &nbsp;
 
+ ## About me:
+ 
+Olá! Sou Bruno Felipe, um desenvolvedor apaixonado por tecnologia com experiência em HTML, CSS, JavaScript, TypeScript, React e NodeJS.
+Estou sempre em busca de novos desafios e oportunidades de aprendizado.
 
+Aberto a colaborações e pronto para contribuir de forma dedicada, seja otimizando o desempenho de sistemas ou aplicativos.  estou pronto para contribuir de forma dedicada.
 
 ## My Skills
 
@@ -23,13 +28,18 @@
 ## Studying in this moment:
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
+	[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunofelipehp)&nbsp;
+ ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
 
 ## Workstation Tools:
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
+![Windows](https://img.shields.io/badge/Windows-000?style=for-the-badge&logo=windows&logoColor=2CA5E0)&nbsp;
+	[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunofelipehp)&nbsp;
+
 
 ## Contacts:
 
