@@ -55,9 +55,9 @@ Estou aberto a colaborações e sempre em busca de aprendizado.
 
 
 <div align="center" > 
-  
+  <!--
   <img width="70%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunofelipehp&layout=compact&hide_border=true&title_color=6A5ACD&text_color=c9d1d9&bg_color=0d1117&hide_progress=false" />
-
+-->
 </div>
 
 &nbsp;
